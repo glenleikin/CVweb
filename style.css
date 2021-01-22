@@ -1,0 +1,97 @@
+body{
+  /* background-color: #F5F1F6; */
+  background-image: url("https://www.wallpapertip.com/wmimgs/83-838410_php-html-code-php-lenguaje-de-programacion.jpg");
+}
+
+.skills{
+    display: flex;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.educacion{   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.item{
+   background-color: black;
+    height: 100%;
+    width: 20%;
+    padding: 4em;
+    margin: 0em;
+    color: whitesmoke;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo{
+   background-color: blueviolet;
+    color: whitesmoke;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.presentacion{
+  color: whitesmoke;
+  justify-content: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.contacto {
+   background-color: blueviolet;
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.formato {
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+}
+
+hr{
+  height: 5px;
+  width: 30%;
+  background-color: blueviolet;
+}
+.container {
+    width: 100%;
+    background-color: rgb(231, 231, 231);
+    border-radius: 20px;
+ }
+ .ingles, .photoshop, .flash, .office, .python, .c {
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    color: white;
+    border-radius: 20px;
+ }
+ .office {
+    width: 90%;;
+    background-color: blueviolet;
+ }
+ .c {
+    width: 80%;
+    background-color:blueviolet;
+ }
+ .python {
+    width: 70%;
+    background-color: blueviolet;
+ }
+ .photoshop {
+    width: 60%;
+    background-color: blueviolet;
+ }
+.flash {
+        width: 60%;
+        background-color: blueviolet;
+ }
+ .ingles {
+    width: 80%;
+    background-color: blueviolet;
